@@ -1,4 +1,4 @@
-# LISTADO DE COMPONENTES DE HARDWARE Y SOFTWARE
+# <span style="color:green">LISTADO DE COMPONENTES DE HARDWARE Y SOFTWARE</span>
 ## En el siguiente documento encontrarás un listado de los componentes que tiene un PC
 
 # COMPONENTES DE HARDWARE
