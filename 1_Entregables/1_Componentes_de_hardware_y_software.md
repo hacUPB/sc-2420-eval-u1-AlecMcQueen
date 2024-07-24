@@ -64,3 +64,20 @@ Lee y escribe datos en Discos o CD´s
 
 ## SISTEMA OPERATIVO (Windows, macOS, Linux)
 Gestiona los recursos de la computadora y proporciona una interfaz para que el usuario pueda interactuar.
+
+## APLICACIONES (MICROSOFT OFFICE, GOOGLE CHROME, ADOBE PHOTOSHOP)
+Programas que realizan tareas designadas como procesamiento de texto, navegar por la web o editor de imagenes.
+
+## FIRMWARE
+Es el software que controla el hardware de la computadora.
+
+## DRIVERS
+Programas que permiten la comunicación entre el el sistema operativo y el hardware.
+
+## UTILIDADES DE SISTEMA
+Programas que ayudan a mantener y optimizar el sistema operativo y su hardware.
+
+## SOFTWARE DE SERVIDORES
+Proporcionan servicios de red y gestion de datos para aplicaciones web y bases de datos.
+
+
